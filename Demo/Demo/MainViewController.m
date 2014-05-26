@@ -32,7 +32,7 @@
     [self.progressLabel2 setProgress:0
                              andText:@""
                             withFont:[UIFont boldSystemFontOfSize:16]
-                 withLoadedTextColor:[UIColor flatRedColor]
+                 withLoadedTextColor:[UIColor yellowColor]
                 andUnloadedTextColor:[UIColor flatYellowColor]
                    withLoadedBGColor:[UIColor flatBlueColor]
                   andUnloadedBGColor:[UIColor brownColor]];
